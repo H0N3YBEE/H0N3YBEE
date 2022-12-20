@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @H0N3YBEE
 - 👀 I’m interested in Astronomy, Data Science, Data Analytics
 - 🌱 I’m currently learning Data Analytics, C++
-- 💞️ I’m looking to collaborate on Data Analytics Project
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me anuproy231002@gmail.com
 
 <!---
